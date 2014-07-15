@@ -1,0 +1,10 @@
+backupDB
+*.bak
+*.log
+__pycache__
+SCSUStudentSearchPRIVATE.cfg
+address.py
+emailscraper.py
+massAdder.py
+TODO
+
